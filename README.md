@@ -1,7 +1,10 @@
 # loanpredictors
 Finding predictors for Lending Club loans from 2007/11 
 
-Lending Club is a lending company in the US for short-term personal and business loans, the largest online credit marketplace, as per their description. I've analysed their online data for conceded loans in 2007-2011 and 2015, trying to find the best predictors for paid loans, in the search for the best algorithm. I may have found it. 
+Lending Club is a lending company in the US for short-term personal and business loans, the largest online credit marketplace, as per their description. I've analysed their online data for conceded loans in 2007-2011 and 2015, trying to find the best predictors for paid loans, in the search for the best algorithm. 
+
+Full article: http://www.dartycs.com/2017/01/12/loan-algortihm-usa/
+
 
 
 
